@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 JFile6
+=======
+New File6 from firstbrach
+>>>>>>> firstbranch
